@@ -7,6 +7,10 @@ body {
   padding: 0;
 }
 
+a {
+  font-size: 50px;
+}
+
 /*#################################################
 #5 I just noticed - when my stylesheet was working,
 that my page background color wasn't right. 
